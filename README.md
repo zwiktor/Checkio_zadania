@@ -1,2 +1,3 @@
 # Checkio_zadania
-opis za chwilę
+Zadania o stopniu podstawowym i wyższym rozwiązywane w języku python.
+Zadania o poziomie elementarnym nie zostały dodane do repozytorium z powodu dużej ilości rozwiązanych zadań na tym poziomie.
